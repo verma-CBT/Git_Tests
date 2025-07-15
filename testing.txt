@@ -1,3 +1,8 @@
 Hello this is test one- - lets see if this gets staged by adding it 
 
+It sees newlin ein a wierd way
+
 If not we will see what add does before the commit
+
+Now adding new changes
+Lets see what does git diff show up now
