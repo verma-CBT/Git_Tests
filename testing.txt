@@ -1,0 +1,3 @@
+Hello this is test one- - lets see if this gets staged by adding it 
+
+If not we will see what add does before the commit
